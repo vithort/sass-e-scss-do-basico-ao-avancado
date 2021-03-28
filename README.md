@@ -37,3 +37,11 @@ sass --watch sass:css
 sass style.scss style.css --style compact
 sass --watch scss:css --style compressed
 ```
+
+## Interpolação
+
+Substituir valores de forma dinâmica
+
+```
+#{valor}
+```
